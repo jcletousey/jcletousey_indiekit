@@ -1,0 +1,30 @@
+{
+  "name": "jcletousey_indiekit",
+  "version": "1.0.0",
+  "description": "Jean-Charles Le Tousey's website IndieKit instance",
+  "main": "index.js",
+  "scripts": {
+    "start": "indiekit serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcletousey/jcletousey_indiekit.git"
+  },
+  "keywords": [
+    "indieweb",
+    "indiekit",
+    "nodejs",
+    "micropub"
+  ],
+  "author": {
+    "name": "Jean-Charles Le Tousey",
+    "url": "https://jcletousey.dev"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcletousey/jcletousey_indiekit/issues"
+  },
+  "homepage": "https://github.com/jcletousey/jcletousey_indiekit#readme",
+  "type": "module"
+}
